@@ -1,0 +1,1 @@
+update_avg = alpha * curr_value + (1 - alpha) * prev_avg
